@@ -1,0 +1,12 @@
+{
+  "export_job_id": "f724aa76-c863-4fb0-a41e-891f13332bd9",
+  "id_short": 633017,
+  "published_at": "2026-04-14T07:40:26Z",
+  "repo_name": "all-restaurants-in-roswell-georgia-us-sample-633017",
+  "sample_asset_name": "beamstation_633017_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/633017/beamstation_633017_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_records": 37,
+  "sample_sha256": "d127403eb9fc8b6282d3cd360738d316eeeeb04445a883277d121a1e542f915d",
+  "sample_size_bytes": 154250,
+  "total_records": 375
+}
