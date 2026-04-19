@@ -1,6 +1,6 @@
 # All Restaurants in Roswell, Georgia, US
 
-> Free BeamStation sample export with 37 rows and masked direct-contact fields.
+> Free BeamStation sample export with 36 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `633017` |
 | Location | Roswell |
 | Category | Restaurants |
-| Full dataset size | 375 records |
-| Free sample size | 37 records (9.87%) |
-| Last export | 2026-04-09T10:39:17.676926+00:00 |
+| Full dataset size | 363 records |
+| Free sample size | 36 records (9.92%) |
+| Last export | 2026-04-16T10:33:59.848266+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-roswell-georgia-us-sample-633017/releases/download/sample-latest/beamstation_633017_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
