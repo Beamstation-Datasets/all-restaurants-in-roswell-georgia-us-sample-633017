@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for Roswell, Georgia. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Roswell, Georgia, US",
-  "export_job_id": "d3e4f295-d682-466d-a0fc-cefd35e77b05",
+  "export_job_id": "ccae6990-45cb-4948-8781-738f39a2c57f",
   "github_org": "Beamstation-Datasets",
   "id_short": 633017,
   "location_name": "Roswell",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-roswell-georgia-us-sample-633017",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/633017/beamstation_633017_restaurants-us-ga_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 28,
-  "sample_sha256": "b216a6197ec6703316a53db622a588da64f567b5467eba5b842ab9668c7631cb",
-  "sample_size_bytes": 119989,
-  "total_records": 280,
-  "updated_at": "2026-04-23T10:22:20.355728+00:00"
+  "sample_records": 38,
+  "sample_sha256": "c14e0fce0f4606623ea23d83113847a3842cce77686ae444cde6e3bd89bee02c",
+  "sample_size_bytes": 149934,
+  "total_records": 380,
+  "updated_at": "2026-04-30T20:59:21.089087+00:00"
 }
